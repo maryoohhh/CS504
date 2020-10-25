@@ -1,0 +1,9 @@
+[submodule "hop01-c-hello-world-maryoohhh"]
+	path = hop01-c-hello-world-maryoohhh
+	url = git@github.com:cityuseattle/hop01-c-hello-world-maryoohhh.git
+[submodule "hop02-maryoohhh"]
+	path = hop02-maryoohhh
+	url = git@github.com:cityuseattle/hop02-maryoohhh.git
+[submodule "hop03-maryoohhh"]
+	path = hop03-maryoohhh
+	url = git@github.com:cityuseattle/hop03-maryoohhh.git
