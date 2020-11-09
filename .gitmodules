@@ -13,3 +13,6 @@
 [submodule "hop05-maryoohhh"]
 	path = hop05-maryoohhh
 	url = git@github.com:cityuseattle/hop05-maryoohhh.git
+[submodule "hop06-maryoohhh"]
+	path = hop06-maryoohhh
+	url = git@github.com:cityuseattle/hop06-maryoohhh.git
