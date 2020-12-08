@@ -25,3 +25,6 @@
 [submodule "hop09-maryoohhh"]
 	path = hop09-maryoohhh
 	url = git@github.com:cityuseattle/hop09-maryoohhh.git
+[submodule "hop10-blazordeployment-maryoohhh"]
+	path = hop10-blazordeployment-maryoohhh
+	url = git@github.com:cityuseattle/hop10-blazordeployment-maryoohhh.git
